@@ -1,34 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Task 6
 
-## Getting Started
+# Create a React component for a card resembling the one provided in the figma design. Additionally, you need to populate this card with dummy data and include an avatar image. You also need to create the Job Listing Dashboard.
 
-First, run the development server:
+# The card should have the following features:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+# 1. The card should have an avatar image, title, description, and a button.    
+# 2. The card should have a hover effect.
+# 3. The card should have a shadow effect.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# The Job Listing Dashboard should have the following features:
+#should have a job decrption, location, and a button.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# The design for the card and the Job Listing Dashboard is provided in the figma link below:
+https://www.figma.com/file/igmFo7dypzpuM02KJi8cay/Task-1?type=design&node-id=0%3A1&mode=design&t=FUZyVfl0w887g31l-1
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+# one component for the card and one for the job listing dashboard.
+![alt text](image.png)
 
-To learn more about Next.js, take a look at the following resources:
+# the whole card component 
+![alt text](image-1.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# to run this code you need to install the following dependencies
+# npm install react-icons
+# 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
