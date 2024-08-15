@@ -21,6 +21,9 @@ https://www.figma.com/file/igmFo7dypzpuM02KJi8cay/Task-1?type=design&node-id=0%3
 # the whole card component 
 ![alt text](image-1.png)
 
+#the description of the card component
+![alt text](image-2.png)
+
 # to run this code you need to install the following dependencies
 # npm install react-icons
 # 
