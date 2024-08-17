@@ -29,3 +29,7 @@ https://www.figma.com/file/igmFo7dypzpuM02KJi8cay/Task-1?type=design&node-id=0%3
 # 
 
 
+# to fetch data from api endpoint and i have to use the use effect then handle the error it is not successful the return the error message
+
+
+
